@@ -1,0 +1,23 @@
+{
+  "name": "StrengerChat Ecosystem",
+  "short_name": "StrengerChat",
+  "description": "Next-Gen Web Utilities & Digital Media Tools — MediaFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D10",
+  "theme_color": "#0B0D10",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/faceplate.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
